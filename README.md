@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
