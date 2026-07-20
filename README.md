@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
