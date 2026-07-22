@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0164-maximum-gap) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
