@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
