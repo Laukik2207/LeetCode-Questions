@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
