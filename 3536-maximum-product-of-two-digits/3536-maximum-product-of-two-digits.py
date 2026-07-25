@@ -1,7 +1,7 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        if n < 10:
-            return n
+        # if n < 10:
+        #     return n
         m1 = 0
         m2 = 0
 
