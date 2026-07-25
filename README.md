@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1331-rank-transform-of-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
