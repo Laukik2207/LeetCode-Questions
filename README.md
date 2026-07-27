@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
