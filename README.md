@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
