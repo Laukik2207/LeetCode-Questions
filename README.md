@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0162-find-peak-element) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
