@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0896-monotonic-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
