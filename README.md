@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
