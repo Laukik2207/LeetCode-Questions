@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -371,4 +374,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
