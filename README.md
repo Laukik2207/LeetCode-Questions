@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -426,16 +428,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -452,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0069-sqrtx) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
