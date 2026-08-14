@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1148-article-views-i) |
 ## Greedy
