@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
