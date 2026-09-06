@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
