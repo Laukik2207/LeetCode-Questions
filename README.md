@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1872-stone-game-viii) |
