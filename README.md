@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0896-monotonic-array) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1901-find-a-peak-element-ii) |
