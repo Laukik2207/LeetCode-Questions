@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1140-stone-game-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
