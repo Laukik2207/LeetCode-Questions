@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Laukik2207/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Laukik2207/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Laukik2207/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
